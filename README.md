@@ -35,24 +35,24 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 - Street maps and aerial maps
 - Street views
 ### Technologies
-Google Earth (main content delivery application)
-HTML (for description bubbles)
-CSS (for bubble styling)
-KML/XML (for pin positioning)
-SQL (MySQL server for data storage)
-HTTP (delivery protocol for KML and HTML)
-Apache Tomcat (Server is a web application hosted in a Tomcat container)
-CSV (County data is delivered in CSV format and has to be parsed and inserted in the SQL database)
-Java (Main language used on the web server)
-Javascript (Templating language on the web server)
-Spring / Spring Boot (Server is developed as a Spring Boot application)
+- Google Earth (main content delivery application)
+- HTML (for description bubbles)
+- CSS (for bubble styling)
+- KML/XML (for pin positioning)
+- SQL (MySQL server for data storage)
+- HTTP (delivery protocol for KML and HTML)
+- Apache Tomcat (Server is a web application hosted in a Tomcat container)
+- CSV (County data is delivered in CSV format and has to be parsed and inserted in the SQL database)
+- Java (Main language used on the web server)
+- Javascript (Templating language on the web server)
+- Spring / Spring Boot (Server is developed as a Spring Boot application)
 KML/XML/HTML templating (this is implemented through self-developed Javascript View Resolver)
 
 ### What I'll Have to Learn
-KML positioning of pins within Goggle Earth
-Dynamic reloading of pins upon map navigation
-Embedding HTML within KML descriptors
-Translating CSV tables into SQL tables
-Implementing GeoLocation search on database
-Integrate Spring / Spring Boot with Tomcat containers
-Logging within Tomcat container environment
+- KML positioning of pins within Goggle Earth
+- Dynamic reloading of pins upon map navigation
+- Embedding HTML within KML descriptors
+- Translating CSV tables into SQL tables
+- Implementing GeoLocation search on database
+- Integrate Spring / Spring Boot with Tomcat containers
+- Logging within Tomcat container environment
