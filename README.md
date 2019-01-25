@@ -73,10 +73,10 @@ parcels present in the condo/coop is presented, allowing easy access to each one
     <td>Legal Description and Sales</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width="300"/></td>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width="300"/></td>
   </tr>
   <tr>
-    <td>Horizontal View</td>
+    <td colspan="2">Horizontal View</td>
   </tr>
 </table>
 
