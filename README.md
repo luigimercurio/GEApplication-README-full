@@ -74,9 +74,15 @@ parcels present in the condo/coop is presented, allowing easy access to each one
   </tr>
   <tr>
     <td colspan="2"><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Additional%20Information.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Condo%20unit%20list.jpg" width="150"/></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td colspan="2">Horizontal View</td>
+    <td>Additional Information</td>
+    <td>Condo Unit list</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
