@@ -60,7 +60,6 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Vertical%20panorama.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width="150"/></td>
     <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Property%20information.jpg" width="150"/></td>
     <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Parcel%20Layout.jpg" width="150"/></td>
     <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Assessment%20and%20value.jpg" width="150"/></td>
@@ -74,7 +73,7 @@ parcels present in the condo/coop is presented, allowing easy access to each one
     <td>Legal Description and Sales</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width=300/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Horizontal%20panorama.jpg" width="300"/></td>
   </tr>
   <tr>
     <td>Horizontal View</td>
