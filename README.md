@@ -30,7 +30,7 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 **Google Earth integrated features:** The application takes advantage of ready available GE features:
 - Available both on desktop and mobile
 - Current position mapping
-- Street maps and aerial maps
+- 3D and aerial maps
 - Street views
 
 ### Technologies
@@ -57,7 +57,8 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 - Logging within Tomcat container environment
 
 ## Views
-![Vertical View](https://github.com/luigimercurio/liftoff-assignments/blob/master/Vertical%20panorama.jpg "Vertical View")
+<img src="https://raw.githubusercontent.com/luigimercurio/liftoff-assignments/master/Vertical%20panorama.jpg" width="150"/>
+Vertical View
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/IkuIrRVz/ge-project)
