@@ -47,11 +47,21 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 - Spring / Spring Boot (Server is developed as a Spring Boot application)
 - KML/XML/HTML templating (this is implemented through self-developed Javascript View Resolver)
 
-### What I'll Have to Learn
-- KML positioning of pins within Goggle Earth
+### Objectives
+- KML positioning of pins within Google Earth
 - Dynamic reloading of pins upon map navigation
 - Embedding HTML within KML descriptors
 - Translating CSV tables into SQL tables
 - Implementing GeoLocation search on database
 - Integrate Spring / Spring Boot with Tomcat containers
 - Logging within Tomcat container environment
+
+## Wireframes
+
+(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+
+### Project Tracker
+[Trello Board](https://trello.com/b/IkuIrRVz/ge-project)
+
+### Project Repo Link
+[GE Application](https://github.com/luigimercurio/GEApplication)
