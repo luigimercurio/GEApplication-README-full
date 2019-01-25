@@ -91,3 +91,9 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 
 ### Project Repo Link
 [GE Application](https://github.com/luigimercurio/GEApplication)
+
+### My resume
+[Resume](http://m-tags.org/luigi-mercurio-resume.pdf)
+
+### LinkedIn page
+[LinkedIn](https://www.linkedin.com/in/luigi-mercurio-1221a428/)
