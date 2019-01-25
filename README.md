@@ -56,9 +56,8 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 - Integrate Spring / Spring Boot with Tomcat containers
 - Logging within Tomcat container environment
 
-## Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+## Views
+![Vertical View](https://github.com/luigimercurio/liftoff-assignments/blob/master/Vertical%20panorama.jpg "Vertical View")
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/IkuIrRVz/ge-project)
